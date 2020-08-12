@@ -1,0 +1,50 @@
+[
+    {
+        "productNAME":"Mango People T-shirt",
+        "productCost":52,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-1.png",
+        "productId":"prod_0"
+    },
+    {
+        "productNAME":"Pear People T-shirt",
+        "productCost":64,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-2.png",
+        "productId":"prod_1"
+    },
+    {
+        "productNAME":"Plum People T-shirt",
+        "productCost":76,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-3.png",
+        "productId":"prod_2"
+    },
+    {
+        "productNAME":"Grapefruit People T-shirt",
+        "productCost":86,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-4.png",
+        "productId":"prod_3"
+    },
+    {
+        "productNAME":"Guava People T-shirt",
+        "productCost":108,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-5.png",
+        "productId":"prod_4"
+    },
+    {
+        "productNAME":"Orange People T-shirt",
+        "productCost":130,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-6.png",
+        "productId":"prod_5"
+    },
+    {
+        "productNAME":"Lemon People T-shirt",
+        "productCost":152,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-7.png",
+        "productId":"prod_6"
+    },
+    {
+        "productNAME":"Coconut People T-shirt",
+        "productCost":176,
+        "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-8.png",
+        "productId":"prod_7"
+    }
+]
