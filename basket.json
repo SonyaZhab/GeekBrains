@@ -1,0 +1,27 @@
+{
+    "totalAmount": 3,
+    "totalPrice": 460,
+    "content": [
+            {
+                "productNAME":"Mango People T-shirt",
+                "productCost":52,
+                "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-1.png",
+                "productId":"prod_0",
+                "amount": 2
+            },
+            {
+                "productNAME":"Plum People T-shirt",
+                "productCost":76,
+                "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-3.png",
+                "productId":"prod_2",
+                "amount": 3
+            },
+            {
+                "productNAME":"Lemon People T-shirt",
+                "productCost":152,
+                "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-7.png",
+                "productId":"prod_6",
+                "amount": 1
+            }
+        ]
+    }
