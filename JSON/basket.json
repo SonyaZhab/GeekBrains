@@ -22,6 +22,13 @@
                 "productImg":"https://github.com/SonyaZhab/GeekBrains/blob/master/index_catalog/product-7.png",
                 "productId":"prod_6",
                 "amount": 1
+            },
+                    {
+                "productNAME":"Plum People T-shirt",
+                "productCost":76,
+                "productImg":"https://raw.githubusercontent.com/SonyaZhab/GeekBrains/master/img/product/product-3.png",
+                "productId":"prod_2",
+                "amount": 3
             }
         ]
     }
