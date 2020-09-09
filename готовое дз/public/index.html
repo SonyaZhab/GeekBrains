@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Shop</title>
+    <link rel="stylesheet" href="../public/css/style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="logo">Интернет-Магазин</div>
+            <div class="search_cart">
+                <filter-el></filter-el>
+                <!-- <form action="#" class="search_form" @submit.prevent="filterGoods">
+                    <input type="text" class="search_goods" v-model="searchLine">
+                    <button class="search_button" type="submit">Искать</button>
+                </form> -->
+                <cart ref="cart"></cart>
+
+                <!-- <div class="cart">
+                    <button class="cart_button btn_cart" type="button" @click="show=!show">Корзина</button>
+                    <div class="cart_list" v-show="show">
+                        <p v-if="!cartItems.length" >Корзина пуста</p>
+                        <div class="cart_item" v-for="item of cartItems" :key="item.id_product">
+                            <div class="product_discr">
+                                <img :src="imgCart" alt="Image">
+                                <div class="desc">
+                                    <p class="product_title">{{item.product_name}}</p>
+                                    <p class="product_quantity">Количество: {{item.quantity}}₽</p>
+                                    <p class="product_single_price">{{item.price}}₽</p>
+                                </div>
+                            </div>
+                            <div class="right_block">
+                                <p class="product_price">{{item.quantity * item.price}}₽</p>
+                                <button class="del_btn" @click="remove(item)">Удалить</button>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+
+            </div>
+        </header>
+        <main>
+            <products ref="products"></products>
+            <!-- <div class="products"> 
+                <div class="product-item" v-for="product of filtered" :key="product.id_product">
+                    <img :src="imgCatalog" alt="Some img">
+                    <div class="desc">
+                        <h3>{{product.product_name}}</h3>
+                        <p>{{product.price}}₽</p>
+                        <button class="buy_btn" @click="addProduct(product)">Купить</button>
+                    </div>
+                </div>
+            </div> -->
+            <error></error>
+        </main>
+        
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="../public/js/CartComp.js"></script>
+    <script src="../public/js/ProducComp.js"></script>
+    <script src="../public/js/SearchComp.js"></script>
+    <script src="../public/js/ErrorComp.js"></script>
+    <script src="../public/js/product.js"></script>
+
+</html>
