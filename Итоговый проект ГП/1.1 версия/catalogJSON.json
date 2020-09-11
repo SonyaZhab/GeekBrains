@@ -1,0 +1,115 @@
+[
+    {
+        "id": "book-1",
+        "name": "Гарри Поттер и Философский камень",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP1.jpg",
+        "price": 100,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2006,
+            "translater": "Игорь Оранский",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 400,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-2",
+        "name": "Гарри Поттер и Тайная комната",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP2.jpg",
+        "price": 200,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2006,
+            "translater": "Марина Литвинова",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 480,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-3",
+        "name": "Гарри Поттер и узник Азкабана",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP3.jpg",
+        "price": 300,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2006,
+            "translater": "Марина Литвинова",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 484,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-4",
+        "name": "Гарри Поттер и Кубок Огня",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP4.jpg",
+        "price": 400,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2006,
+            "translater": "Игорь Оранский",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 667,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-5",
+        "name": "Гарри Поттер и Орден Феникса",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP5.jpg",
+        "price": 500,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2006,
+            "translater": "Владимир Бабков, Виктор Голышев, Леонид Мотылев",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 832,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP6.jpg",
+        "price": 600,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2005,
+            "translater": "Майя Лахути, Сергей Ильин",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 672,
+            "binding": "Твёрдый"
+        }
+    },
+    {
+        "id": "book-7",
+        "name": "Гарри Поттер и Дары Смерти",
+        "image": "https://raw.githubusercontent.com/SonyaZhab/GeekBrains/Итоговый-проект/imgs/HP7.jpg",
+        "price": 700,
+        "specific": {
+            "publishing": "Росмэн",
+            "publishingYear": 2007,
+            "translater": "Майя Лахути, Сергей Ильин",
+            "language": "Русский",
+            "author": "Джоан Кэтлин Роулинг",
+            "pubFormat": "130х200 мм (средний формат)",
+            "numberPages": 640,
+            "binding": "Твёрдый"
+        }
+    }
+
+]
