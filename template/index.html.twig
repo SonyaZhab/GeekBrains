@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> {{ title }} </title>
+</head>
+<body>
+
+<style>
+    .img{
+        margin: 20px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+</style>
+
+<div class="img">
+    {% for image in images %}
+    <div >
+        <a  href="/bigImg.php?image={{ image }}">
+            <img style="margin: 20px; height: 360px; width: 250px;" src="{{ image }}">
+        </a>
+    </div>
+    {% endfor %}
+</div>
+
+</body>
+
+</html>        
